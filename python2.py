@@ -2,6 +2,7 @@ def print_string(str1,str2):
     i=len(str1)
     j=len(str2)
     c=[]
+ #checking whether the second string can be obtained from the first    
     while i>0 and j>0:
         if i==j:
             c.append(i) 
