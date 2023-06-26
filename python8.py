@@ -1,3 +1,4 @@
+#iterate over dictionaries using for loops.
 x={}
 y=int(input("no.of values to be entered"))
 for i in range(y):
