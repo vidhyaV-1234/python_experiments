@@ -1,3 +1,4 @@
+#to add, subtract, multiple and divide two Pandas Series.
 import numpy as np
 import pandas as pd
 animals=pd.Series({'elephant':200,'horse':300,'rabbit':2050})
