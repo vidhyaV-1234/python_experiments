@@ -4,7 +4,7 @@ def print_string(str1,str2):
     c=[]
  #checking whether the second string can be obtained from the first    
     while i>0 and j>0:
-        if i==j:
+        if str1[i-1]==str2[j-1]:
             c.append(i) 
             j-=1
         i-=1
